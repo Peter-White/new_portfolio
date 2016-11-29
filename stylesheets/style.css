@@ -1,9 +1,21 @@
-body {
-  background-image: url("https://grs614.files.wordpress.com/2013/02/waterfront2.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-  background-size:cover;
+@media (min-width: 568px) {
+  body {
+    background-image: url("../images/waterfront2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 568px) {
+  body {
+    background-image: url("../images/MI_CUSTOM-HOUSE_BOSTON_0148.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+  }
 }
 
 h1 {
