@@ -1,9 +1,12 @@
 body {
-/*  background-image: url("https://grs614.files.wordpress.com/2013/02/waterfront2.jpg");
+  background-image: url("https://grs614.files.wordpress.com/2013/02/waterfront2.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
-  background-size:cover;*/
+  background-size:cover;
+}
+body .container {
+  background-color: yellow;
 }
 h1 {
   text-align: center;
