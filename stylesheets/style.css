@@ -31,10 +31,10 @@ h1 {
     color: white;
 }
 
-#description {
+#description li h4 {
   color: white;
 }
-table {
+table tr th h4 {
   color: white;
 }
 
