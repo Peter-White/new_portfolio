@@ -1,20 +1,20 @@
 @media (min-width: 568px) {
   body {
-    background-image: url("../images/waterfront2.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    background-size:cover;
+    background: url("../images/waterfront2.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
 }
 
 @media (min-width: 320px) and (max-width: 568px) {
   body {
-    background-image: url("../images/MI_CUSTOM-HOUSE_BOSTON_0148.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    background-size:cover;
+    background: url("../images/MI_CUSTOM-HOUSE_BOSTON_0148.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
   }
 }
 
