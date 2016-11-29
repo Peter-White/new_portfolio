@@ -16,16 +16,19 @@ h1 {
     animation: neon 1.5s ease-in-out infinite alternate;
     font-family: 'Bungee Inline', cursive;
     font-size: 40px;
+    color: white;
 }
 .skills {
     animation: neon2 1.5s ease-in-out infinite alternate;
     font-family: "Brush Script MT", cursive;
     font-size: 60px;
+    color: white;
 }
 .projects {
     animation: neon3 1.5s ease-in-out infinite alternate;
     font-family: 'Monoton', cursive;
     font-size: 40px;
+    color: white;
 }
 
 h1, h4 {
