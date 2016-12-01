@@ -138,6 +138,7 @@ div {
 
 /* Footer */
 #contact {
+  width: 100%;
   background-color: #01137f;
   padding: 0 2%;
   font-size: 20px;
