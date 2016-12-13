@@ -9,7 +9,7 @@ $(document).ready(function() {
   function displayProjects(data) {
     var projectHTML = '<div class="row">';
     $.each(data, function(i, project) {
-      projectHTML += '<div class="project col-xs-10 col-sm-4">';
+      projectHTML += '<div class="project col-xs-12 col-sm-3">';;
       projectHTML += '<button id=' + project._id + '><img src=' + project.image + ' class="img-responsive"></button>';
       projectHTML += '</div>';
     });
