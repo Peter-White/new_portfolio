@@ -1,6 +1,6 @@
 // Skills jQuery Function
 $(document).ready(function(){
-  var skills = ["NodeJS", "ExpressJS", "AngularJS", "Ruby on Rails", "Javascript", "Ruby", "HTML", "HTML5","CSS", "CSS3", "MongoDB", "SQL", "Postgresql", "Git", "jQuery", "Ajax", "JSON", "Bootstrap", "Google Search"];
+  var skills = ["NodeJS", "ExpressJS", "AngularJS", "Ruby on Rails", "Javascript", "Ruby", "HTML", "HTML5","CSS", "CSS3", "MongoDB", "SQL", "Postgresql", "Git", "jQuery", "Ajax", "JSON", "Bootstrap", "C#", "ASP.Net MCV", "Java", "Google Search"];
 
   var innerHTML = '<table><tr>';
   $.each(skills, function(i, val){
