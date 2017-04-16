@@ -1,1 +1,1 @@
-As a user I can read
+As a user I can read all the skills that the portfolio's developer has practiced, veiw every project the developer has created with links to the currently active urls, view the developer's current resume, and contact the developer using Twitter, LinkedIn, and direct email.
